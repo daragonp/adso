@@ -1,0 +1,12 @@
+Versión 1.0.0:
+    Se lanza el sistema con las funcionalidades básicas.
+Versión 1.0.1:
+    Se corrige error que impedía la recepción de códigos de verificación de nuevas cuentas a usuarios con correos del dominio @hotmail.com
+Versión 1.2.0:
+    Permite crear un codígo QR para cada producto.
+Versión 1.2.1:
+    Se corrige error en API de QR que no permitía generar códigos de forma inmediata.
+Versión 2.0.0:
+    Cambio en la interfaz general; Se implementan API's de pago.
+    Nuevas funcionalidades: registro de usuarios con cuentas misena.
+    Préstamos dentro de la aplicación.
